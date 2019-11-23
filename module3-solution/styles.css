@@ -1,1 +1,32 @@
+body h1 {
+	text-align: center;
+}
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+.navbar-header h1 {
+	color: #000;
+	text-align: left;
+}
+#nav-list a {
+	color: #000;
+	text-align: center;
+	font-size: 1.5em;
+}
+.menu-item-tile {
+	width: 100%;
+	background: #f6b319;
+	border: 1px solid #000;
+	margin-bottom: 15px;
 
+}
+.menu-item-tile h3 {
+	text-align: center;
+
+}
+.menu-item-tile  p {
+	text-align: center;
+	font-size: 20px;
+}
